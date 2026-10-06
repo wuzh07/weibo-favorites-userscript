@@ -7,7 +7,10 @@
 // @match        https://weibo.com/*
 // @match        https://www.weibo.com/*
 // @run-at       document-start
-// @grant        GM_addStyle
+// @grant        none
+// @noframes
+// @homepageURL  https://github.com/wuzh07/weibo-favorites-userscript
+// @supportURL   https://github.com/wuzh07/weibo-favorites-userscript/issues
 // @license      MIT
 // ==/UserScript==
 
