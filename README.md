@@ -17,10 +17,17 @@
 
 ![左侧菜单中的我的收藏入口](screenshot-menu.png)
 
+帖子头部的「收藏」与「新页面打开」按钮：
+
+![帖子头部的收藏与新页面打开按钮](2.png)
+
 ## 安装
 
 1. 浏览器安装 [Tampermonkey](https://www.tampermonkey.net/)
-2. 安装本脚本（从 Greasy Fork 安装，或新建脚本粘贴 `weibo-favorites.user.js` 内容保存）
+2. 通过以下任一方式安装本脚本：
+   - **一键安装（推荐）**：[从 Release 安装最新版](https://github.com/wuzh07/weibo-favorites-userscript/releases/latest/download/weibo-favorites.user.js)，Tampermonkey 会自动弹出安装页
+   - [**从 Greasy Fork 安装**](https://greasyfork.org/zh-CN/scripts/598928-%E5%BE%AE%E5%8D%9A%E6%94%B6%E8%97%8F%E5%A2%9E%E5%BC%BA)
+   - **手动安装**：新建脚本，粘贴 `weibo-favorites.user.js` 内容保存
 3. 打开 https://weibo.com ，左侧菜单即可看到「我的收藏」，每条帖子头部会出现「收藏」和「新页面打开」按钮
 
 ## 兼容性
