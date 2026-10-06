@@ -1,5 +1,10 @@
 # weibo-favorites-userscript
 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+[![Release](https://img.shields.io/github/v/release/wuzh07/weibo-favorites-userscript?style=for-the-badge&label=%E6%9C%80%E6%96%B0%E7%89%88)](https://github.com/wuzh07/weibo-favorites-userscript/releases/latest)
+[![License](https://img.shields.io/github/license/wuzh07/weibo-favorites-userscript?style=for-the-badge)](./LICENSE)
+[![Greasy Fork](https://img.shields.io/greasyfork/dt/598928?style=for-the-badge&label=%E5%AE%89%E8%A3%85%E9%87%8F)](https://greasyfork.org/zh-CN/scripts/598928)
+
 微博（weibo.com）收藏功能增强的油猴（Tampermonkey）用户脚本。
 
 ## 功能
